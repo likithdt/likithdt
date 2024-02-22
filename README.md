@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hi 👋, I'm Likith D T<br>A passionate developer from India 🇮🇳<br><br>🌱 I’m currently Studying in Gopalan College of Engineering and Management<br><br>👨‍💻 I’m currently a Computer Science Prodigy<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Programming<br><br>📫 Reach out to me at likith.dt77@gmail.com
+Hi 👋, I'm Likith D T<br>A passionate developer from India 🇮🇳<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=likithdt&icon=7&color=1)](https://visitcount.itsvg.in)
+<br>🌱 I’m currently Studying in Gopalan College of Engineering and Management<br><br>👨‍💻 I’m currently a Computer Science Prodigy<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Programming<br><br>📫 Reach out to me at likith.dt77@gmail.com
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/likithdt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LikithBG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/likithdt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LikithDT) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/likith_dt) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23461775/likith-d-t) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@likithdt) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/likithdt) 
