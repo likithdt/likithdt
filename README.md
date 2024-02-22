@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Likith D T<br>---
-A passionate developer from India 🇮🇳<br>
+Hi 👋, I'm Likith D T<br>A passionate developer from India 🇮🇳<br>
 
 [![](https://visitcount.itsvg.in/api?id=likithdt&icon=7&color=1)](https://visitcount.itsvg.in)<br><br>
 <br>🌱 I’m currently Studying in Gopalan College of Engineering and Management<br><br>👨‍💻 I’m currently a Computer Science Prodigy<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Programming<br><br>📫 Reach out to me at likith.dt77@gmail.com
