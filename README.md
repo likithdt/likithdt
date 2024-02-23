@@ -1,6 +1,5 @@
 
-<br><h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hi 👋, I'm Likith D T
-<br><h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A passionate developer from India 🇮🇳<br>
+<br><h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hi 👋, I'm Likith D T<h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A passionate developer from India 🇮🇳
 
 [![](https://visitcount.itsvg.in/api?id=likithdt&icon=7&color=1)](https://visitcount.itsvg.in)<br><br>
 <br><h4>🌱 I’m currently Studying in Gopalan College of Engineering and Management<br><br>👨‍💻 I’m currently a Computer Science Prodigy<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Programming<br><br>📫 Reach out to me at likith.dt77@gmail.com
@@ -16,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=likithdt&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=likithdt&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=likithdt&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=likithdt&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
